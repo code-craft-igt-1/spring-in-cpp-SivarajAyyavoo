@@ -1,5 +1,7 @@
 #include <vector>
 
+//Testing Git
+
 namespace Statistics {
     // define the Stats structure here. See the tests to infer its properties
     
